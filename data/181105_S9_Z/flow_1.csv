@@ -1,0 +1,3 @@
+timestamp,inter_arrival_time,seq,ack,flag_CWR,flag_ECE,flag_URG,flag_ACK,flag_PSH,flag_RST,flag_SYN,flag_FIN,window_size,urgent_pointer,tcp_header_size,tcp_payload_size,ip_header_size,ip_id,ip_tos,ip_df,ip_mf,ip_offset
+1541380305.656507,nan,2231871902,2013607293,0,0,0,1,1,0,0,0,235,0,32,51,5,55301,32,1,0,0
+1541380305.712,0.05549287796020508,2231871953,2013607644,0,0,0,1,1,0,0,0,243,0,32,204,5,55302,32,1,0,0
